@@ -14,11 +14,9 @@ let scorePalyerOne = document.getElementById("socrePalyerOne");
 let secondPlayer = document.querySelector(".button2");
 secondPlayer.addEventListener("click", secondPlayerScore);
 // et de même avec les deux autres boutons
-//secondPlayer.addEventListener('click');
+//secondPlayer.addEventListener('
 //span number tow
 let scorePalyerTwo = document.getElementById("socrePalyerTwo");
-
-
 //span number three pour le point totale 
 let totalPoint = document.getElementById("totalPoint");
 //totalPoint = document.addEventListener('click');
